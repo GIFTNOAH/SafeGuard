@@ -1,4 +1,4 @@
-# SafeGaurd
+# SafeGuard
 Team Name- SetApart
 
 App Name- SafeGuard
